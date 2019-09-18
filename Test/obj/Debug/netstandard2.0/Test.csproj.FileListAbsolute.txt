@@ -1,0 +1,12 @@
+/Users/maxence.montet/Projects/Test/Test/bin/Debug/netstandard2.0/Test.deps.json
+/Users/maxence.montet/Projects/Test/Test/bin/Debug/netstandard2.0/Test.dll
+/Users/maxence.montet/Projects/Test/Test/bin/Debug/netstandard2.0/Test.pdb
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.csprojAssemblyReference.cache
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.csproj.CoreCompileInputs.cache
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfoInputs.cache
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfo.cs
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.dll
+/Users/maxence.montet/Projects/Test/Test/obj/Debug/netstandard2.0/Test.pdb
